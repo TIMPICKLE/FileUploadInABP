@@ -71,4 +71,5 @@ so in frontend(i use angular). generate a proxy base on ABP, than follow the "Re
 
 另外一些细节：存文件信息到数据库中，一定得按Guid做任何增删改查操作，因为你永远不知道用户会不会做出脑溢血操作，比如同文件名。
 
-​
+更多细节:
+​https://blog.csdn.net/dongnihao/article/details/125057181?spm=1001.2014.3001.5502
