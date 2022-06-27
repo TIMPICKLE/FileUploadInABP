@@ -1,6 +1,6 @@
-# FileUpload
+# 此项目Fork自 antosubash，antosubash只提供了教程，但是在实际项目中会遇到一些问题（主要是关于前后端数据的互通）
  
-## 纯后端就是这样，但是如果你使用了ABP  CLI Generate proxy的话，会有一些问题
+## 如果你使用了ABP  CLI Generate proxy的话，会有一些问题
 
 ### 问题是这样的，我后端想接受一个文件，很自然的写的类型是 IFormFile file。然后又很自然的使用ABP CLI生成我需要的前端代理。
 
